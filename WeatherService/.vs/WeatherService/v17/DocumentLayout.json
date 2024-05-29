@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\Dev\\Cpp_projects\\VyatGu\\\u0412\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0432 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u044E\\\u043B\u0430\u0431\u04307\\WeatherService\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{09E483E0-204D-4809-9843-6FE697C5522F}|WeatherService.vcxproj|D:\\Dev\\Cpp_projects\\VyatGu\\\u0412\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0432 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u044E\\\u043B\u0430\u0431\u04307\\WeatherService\\Service.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09E483E0-204D-4809-9843-6FE697C5522F}|WeatherService.vcxproj|solutionrelative:Service.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E483E0-204D-4809-9843-6FE697C5522F}|WeatherService.vcxproj|D:\\Dev\\Cpp_projects\\VyatGu\\\u0412\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0432 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u044E\\\u043B\u0430\u0431\u04307\\WeatherService\\Weather.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09E483E0-204D-4809-9843-6FE697C5522F}|WeatherService.vcxproj|solutionrelative:Weather.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{09E483E0-204D-4809-9843-6FE697C5522F}|WeatherService.vcxproj|D:\\Dev\\Cpp_projects\\VyatGu\\\u0412\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0432 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u044E\\\u043B\u0430\u0431\u04307\\WeatherService\\WeatherService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{09E483E0-204D-4809-9843-6FE697C5522F}|WeatherService.vcxproj|solutionrelative:WeatherService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -27,6 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Service.h",
+              "DocumentMoniker": "D:\\Dev\\Cpp_projects\\VyatGu\\\u0412\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0432 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u044E\\\u043B\u0430\u0431\u04307\\WeatherService\\Service.h",
+              "RelativeDocumentMoniker": "Service.h",
+              "ToolTip": "D:\\Dev\\Cpp_projects\\VyatGu\\\u0412\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0432 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u044E\\\u043B\u0430\u0431\u04307\\WeatherService\\Service.h",
+              "RelativeToolTip": "Service.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-29T14:03:46.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Weather.h",
+              "DocumentMoniker": "D:\\Dev\\Cpp_projects\\VyatGu\\\u0412\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0432 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u044E\\\u043B\u0430\u0431\u04307\\WeatherService\\Weather.h",
+              "RelativeDocumentMoniker": "Weather.h",
+              "ToolTip": "D:\\Dev\\Cpp_projects\\VyatGu\\\u0412\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0432 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u044E\\\u043B\u0430\u0431\u04307\\WeatherService\\Weather.h",
+              "RelativeToolTip": "Weather.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-29T13:53:01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "WeatherService.cpp",
               "DocumentMoniker": "D:\\Dev\\Cpp_projects\\VyatGu\\\u0412\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0432 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u044E\\\u043B\u0430\u0431\u04307\\WeatherService\\WeatherService.cpp",
               "RelativeDocumentMoniker": "WeatherService.cpp",
