@@ -1,6 +1,8 @@
 ﻿#include <iostream>
+#include "Weather.h"
+#include "XmlService.h"
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    
 }
