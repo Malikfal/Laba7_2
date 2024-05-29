@@ -29,6 +29,21 @@
     {
       "AbsoluteMoniker": "D:0:0:{09E483E0-204D-4809-9843-6FE697C5522F}|WeatherService.vcxproj|D:\\Dev\\Cpp_projects\\VyatGu\\\u0412\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0432 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u044E\\\u043B\u0430\u0431\u04307\\WeatherService\\Weather.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{09E483E0-204D-4809-9843-6FE697C5522F}|WeatherService.vcxproj|solutionrelative:Weather.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+<<<<<<< HEAD
+=======
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E483E0-204D-4809-9843-6FE697C5522F}|WeatherService.vcxproj|D:\\Dev\\Cpp_projects\\VyatGu\\\u0412\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0432 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u044E\\\u043B\u0430\u0431\u04307\\WeatherService\\JsonService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09E483E0-204D-4809-9843-6FE697C5522F}|WeatherService.vcxproj|solutionrelative:JsonService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E483E0-204D-4809-9843-6FE697C5522F}|WeatherService.vcxproj|D:\\Dev\\Cpp_projects\\VyatGu\\\u0412\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0432 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u044E\\\u043B\u0430\u0431\u04307\\WeatherService\\Service.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09E483E0-204D-4809-9843-6FE697C5522F}|WeatherService.vcxproj|solutionrelative:Service.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E483E0-204D-4809-9843-6FE697C5522F}|WeatherService.vcxproj|D:\\Dev\\Cpp_projects\\VyatGu\\\u0412\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0432 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u044E\\\u043B\u0430\u0431\u04307\\WeatherService\\Weather.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09E483E0-204D-4809-9843-6FE697C5522F}|WeatherService.vcxproj|solutionrelative:Weather.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+>>>>>>> feature-json
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +53,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 3,
+=======
+          "SelectedChildIndex": 4,
+>>>>>>> feature-json
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,6 +70,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+<<<<<<< HEAD
               "Title": "json.hpp",
               "DocumentMoniker": "D:\\Dev\\Cpp_projects\\VyatGu\\\u0412\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0432 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u044E\\\u043B\u0430\u0431\u04307\\WeatherService\\json.hpp",
               "RelativeDocumentMoniker": "json.hpp",
@@ -59,6 +79,29 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-05-29T16:22:33.051Z",
+=======
+              "Title": "Weather.cpp",
+              "DocumentMoniker": "D:\\Dev\\Cpp_projects\\VyatGu\\\u0412\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0432 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u044E\\\u043B\u0430\u0431\u04307\\WeatherService\\Weather.cpp",
+              "RelativeDocumentMoniker": "Weather.cpp",
+              "ToolTip": "D:\\Dev\\Cpp_projects\\VyatGu\\\u0412\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0432 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u044E\\\u043B\u0430\u0431\u04307\\WeatherService\\Weather.cpp",
+              "RelativeToolTip": "Weather.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-29T16:17:07.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JsonService.cpp",
+              "DocumentMoniker": "D:\\Dev\\Cpp_projects\\VyatGu\\\u0412\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0432 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u044E\\\u043B\u0430\u0431\u04307\\WeatherService\\JsonService.cpp",
+              "RelativeDocumentMoniker": "JsonService.cpp",
+              "ToolTip": "D:\\Dev\\Cpp_projects\\VyatGu\\\u0412\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0432 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u044E\\\u043B\u0430\u0431\u04307\\WeatherService\\JsonService.cpp",
+              "RelativeToolTip": "JsonService.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-29T16:09:44.864Z",
+>>>>>>> feature-json
               "EditorCaption": ""
             },
             {
@@ -108,13 +151,18 @@
               "RelativeDocumentMoniker": "WeatherService.cpp",
               "ToolTip": "D:\\Dev\\Cpp_projects\\VyatGu\\\u0412\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0432 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u044E\\\u043B\u0430\u0431\u04307\\WeatherService\\WeatherService.cpp",
               "RelativeToolTip": "WeatherService.cpp",
+<<<<<<< HEAD
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+=======
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+>>>>>>> feature-json
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-29T13:38:37.74Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 5,
               "Title": "JsonService.cpp",
               "DocumentMoniker": "D:\\Dev\\Cpp_projects\\VyatGu\\\u0412\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0432 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u044E\\\u043B\u0430\u0431\u04307\\WeatherService\\JsonService.cpp",
@@ -138,6 +186,43 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-29T16:17:07.482Z",
               "EditorCaption": ""
+=======
+              "DocumentIndex": 3,
+              "Title": "JsonService.h",
+              "DocumentMoniker": "D:\\Dev\\Cpp_projects\\VyatGu\\\u0412\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0432 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u044E\\\u043B\u0430\u0431\u04307\\WeatherService\\JsonService.h",
+              "RelativeDocumentMoniker": "JsonService.h",
+              "ToolTip": "D:\\Dev\\Cpp_projects\\VyatGu\\\u0412\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0432 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u044E\\\u043B\u0430\u0431\u04307\\WeatherService\\JsonService.h*",
+              "RelativeToolTip": "JsonService.h*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-29T16:08:44.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Service.h",
+              "DocumentMoniker": "D:\\Dev\\Cpp_projects\\VyatGu\\\u0412\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0432 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u044E\\\u043B\u0430\u0431\u04307\\WeatherService\\Service.h",
+              "RelativeDocumentMoniker": "Service.h",
+              "ToolTip": "D:\\Dev\\Cpp_projects\\VyatGu\\\u0412\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0432 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u044E\\\u043B\u0430\u0431\u04307\\WeatherService\\Service.h",
+              "RelativeToolTip": "Service.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-29T14:03:46.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Weather.h",
+              "DocumentMoniker": "D:\\Dev\\Cpp_projects\\VyatGu\\\u0412\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0432 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u044E\\\u043B\u0430\u0431\u04307\\WeatherService\\Weather.h",
+              "RelativeDocumentMoniker": "Weather.h",
+              "ToolTip": "D:\\Dev\\Cpp_projects\\VyatGu\\\u0412\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0432 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u044E\\\u043B\u0430\u0431\u04307\\WeatherService\\Weather.h",
+              "RelativeToolTip": "Weather.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-29T13:53:01Z"
+>>>>>>> feature-json
             }
           ]
         }
