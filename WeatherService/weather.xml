@@ -1,5 +1,9 @@
 <current>
+<<<<<<< HEAD
 <city id="548408" name="Êèðîâ">
+=======
+<city id="548408" name="ÐšÐ¸Ñ€Ð¾Ð²">
+>>>>>>> feature-xml
 <coord lon="49.6601" lat="58.5966"/>
 <country>RU</country>
 <timezone>10800</timezone>
@@ -14,9 +18,16 @@
 <gusts value="11.57"/>
 <direction value="171" code="S" name="South"/>
 </wind>
+<<<<<<< HEAD
 <clouds value="100" name="ïàñìóðíî"/>
 <visibility value="133"/>
 <precipitation value="0.45" mode="rain" unit="1h"/>
 <weather number="500" value="íåáîëüøîé äîæäü" icon="10d"/>
+=======
+<clouds value="100" name="Ã¯Ã Ã±Ã¬Ã³Ã°Ã­Ã®"/>
+<visibility value="133"/>
+<precipitation value="0.45" mode="rain" unit="1h"/>
+<weather number="500" value="Ã­Ã¥Ã¡Ã®Ã«Ã¼Ã¸Ã®Ã© Ã¤Ã®Ã¦Ã¤Ã¼" icon="10d"/>
+>>>>>>> feature-xml
 <lastupdate value="2023-03-27T08:55:52"/>
 </current>
